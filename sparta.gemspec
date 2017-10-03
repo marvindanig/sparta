@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{ Add structured data to your rails views: JSON-LD. }
   spec.description   = %q{ Sparta provides rails helpers to add structured data (JSON-LD) on your views. It will fight for you. }
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/marvindanig/sparta.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
